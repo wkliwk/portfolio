@@ -1,0 +1,48 @@
+# Ignore the following files and directories
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node.js files
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Dependency directories
+bower_components/
+
+# Compiled files
+*.log
+*.min.js
+*.min.css
+
+# Temporary files
+*.bak
+*.swp
+*.tmp
+*~
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Ignore the compiled output of TypeScript files
+*.js
+
+# Ignore the output of Prettier
+prettier-debug.log
+
+# Ignore the output of TSLint
+tslint-report.json
+
+# Ignore yarn.lock
+yarn.lock
+
+# Ignore npm-shrinkwrap.json
+npm-shrinkwrap.json

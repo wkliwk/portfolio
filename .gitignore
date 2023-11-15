@@ -16,7 +16,7 @@ bower_components/
 
 # Compiled files
 *.log
-*.min.js
+# *.min.js
 *.min.css
 
 # Temporary files
@@ -33,7 +33,7 @@ bower_components/
 .env
 
 # Ignore the compiled output of TypeScript files
-*.js
+# *.js
 
 # Ignore the output of Prettier
 prettier-debug.log
